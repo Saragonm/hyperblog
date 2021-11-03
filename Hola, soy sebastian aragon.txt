@@ -3,10 +3,8 @@ Estoy aprendiendo git
 
 Tengo 18 años y hoy habalaremos de su vidaaaaaa
 ..
-<<<<<<< HEAD
 
 Estoy haciendo una parctica de un fork
 xd
-=======
 Prueba
->>>>>>> 8fc53ecc7f196ba82b930d73a1feceed4288281f
+
